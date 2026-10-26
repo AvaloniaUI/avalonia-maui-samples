@@ -17,6 +17,7 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="$(MicrosoftExtensionsVersion)" />
 		<PackageReference Include="Avalonia.Controls.Maui" Version="$(AvaloniaControlsMauiVersion)" />
 	</ItemGroup>
+	
 	<ItemGroup>
 	  <ProjectReference Include="../AlohaKit.Gallery/AlohaKit.Gallery.csproj" />
 	</ItemGroup>
