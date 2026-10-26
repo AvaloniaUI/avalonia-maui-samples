@@ -6,6 +6,7 @@
     <MicrosoftExtensionsVersion>11.0.0-rc.2.26504.105</MicrosoftExtensionsVersion>
     <DotNetTfm>net11.0</DotNetTfm>
     <ValidateXcodeVersion>false</ValidateXcodeVersion>
+    <NoWarn>$(NoWarn);CS0618</NoWarn>
   </PropertyGroup>
 
   <PropertyGroup>
