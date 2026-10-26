@@ -1,0 +1,17 @@
+<Project>
+  <PropertyGroup>
+    <AvaloniaVersion>12.1.4</AvaloniaVersion>
+    <MauiVersion>11.0.0-rc.2.26505.5</MauiVersion>
+    <AvaloniaControlsMauiVersion>11.0.0-rc.3.26299.205</AvaloniaControlsMauiVersion>
+    <MicrosoftExtensionsVersion>11.0.0-rc.2.26504.105</MicrosoftExtensionsVersion>
+    <DotNetTfm>net11.0</DotNetTfm>
+    <ValidateXcodeVersion>false</ValidateXcodeVersion>
+  </PropertyGroup>
+
+  <PropertyGroup>
+        <MinAndroidVersion>24.0</MinAndroidVersion>
+        <MinIOSVersion>15.0</MinIOSVersion>
+        <MinCatalystVersion>17.0</MinCatalystVersion>
+        <MinWindowsVersion>10.0.17763.0</MinWindowsVersion>
+  </PropertyGroup>
+</Project>
