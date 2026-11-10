@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="WasmPlusSingleProject.Browser/WasmPlusSingleProject.Browser.csproj" />
+  <Project Path="WasmPlusSingleProject/WasmPlusSingleProject.csproj" />
+</Solution>
