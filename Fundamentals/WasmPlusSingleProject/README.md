@@ -1,6 +1,6 @@
 # WasmPlusSingleProject
 
-This project demostrates adding a Avalonia.Wasm project to a .NET MAUI and Avalonia.Controls.Maui project.
+This project demostrates adding a Avalonia.Browser project to a .NET MAUI and Avalonia.Controls.Maui project.
 
 ## Projects
 
