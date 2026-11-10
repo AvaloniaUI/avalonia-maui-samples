@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="WasmPlusMultiProject.Browser/WasmPlusMultiProject.Browser.csproj" />
+  <Project Path="WasmPlusMultiProject.Desktop/WasmPlusMultiProject.Desktop.csproj" />
+  <Project Path="WasmPlusMultiProject.Droid/WasmPlusMultiProject.Droid.csproj" />
+  <Project Path="WasmPlusMultiProject.iOS/WasmPlusMultiProject.iOS.csproj" />
+  <Project Path="WasmPlusMultiProject.Mac/WasmPlusMultiProject.Mac.csproj" />
+  <Project Path="WasmPlusMultiProject.WinUI/WasmPlusMultiProject.WinUI.csproj" />
+  <Project Path="WasmPlusMultiProject/WasmPlusMultiProject.csproj" />
+</Solution>

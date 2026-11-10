@@ -1,0 +1,12 @@
+<Shell
+    x:Class="WasmPlusMultiProject.AppShell"
+    xmlns:local="clr-namespace:WasmPlusMultiProject"
+    Shell.FlyoutBehavior="Disabled"
+    Title="WasmPlusMultiProject">
+
+    <ShellContent
+        Title="Home"
+        ContentTemplate="{DataTemplate local:MainPage}"
+        Route="MainPage" />
+
+</Shell>
